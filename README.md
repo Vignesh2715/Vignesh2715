@@ -18,6 +18,14 @@
 
 I'm a hobbyist who enjoys learning, experimenting, and building projects. Take a look through my repositories to see what I'm working on.
 
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vignesh2715/Vignesh2715/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vignesh2715/Vignesh2715/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/Vignesh2715/Vignesh2715/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## GitHub stats
 
 <p align="center">
